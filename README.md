@@ -17,7 +17,7 @@ Amaç, bireylerin özelliklerine göre sağlık sigortası ücretlerini tahmin e
 
 ## 📁 Kullanılan Veri Seti
 
-Veri seti `insurance.csv` adlı bir dosyadan alınmıştır ve şu bilgileri içerir:
+Veri seti `[insurance.csv](https://www.kaggle.com/datasets/mirichoi0218/insurance)` adlı bir dosyadan alınmıştır ve şu bilgileri içerir:
 
 - `age`: Yaş
 - `sex`: Cinsiyet
